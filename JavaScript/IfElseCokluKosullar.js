@@ -96,3 +96,31 @@
 
 
 // ! Ternary Operatörü
+
+// let Username= prompt ("kullanıcı adı giriniz")
+// let info = document.querySelector("#info")
+
+
+//  ! ternary kullanımı :
+//  ! kosul ? dogruysa : yanlıssa
+
+// info.innerHTML = `${Username.length < 0 ? Username : "Eksik bilgi girisi "}` 
+
+
+// let boolean;
+
+// const isBooleanTrue = boolean ? true : false;
+
+// console.log(isBooleanTrue)
+// >> false
+
+// console.log(boolean)
+
+
+// let firstCity = "Ankara";
+
+// let secondCity = "İstanbul";
+
+// const isEqual = (firstCity === secondCity) ? "İki şehir aynı" : "İki şehir aynı değil";
+
+// console.log(isEqual)
